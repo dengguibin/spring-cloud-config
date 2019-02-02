@@ -1,4 +1,4 @@
 cn:
-    springcloud:
-                book:
-                    config: I am dev environment
+  springcloud:
+    book:
+      config: I am DEV environment
